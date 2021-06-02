@@ -1,1 +1,1 @@
-# codefordes-solutions
+# codeforces-solutions
